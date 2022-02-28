@@ -1,0 +1,497 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands sorrow for the losse of their late generall or an epitaph upon his Excellencie Robert Earle of Essex, &amp;c. Who died September 15. 1646. with a perfect memoriall of the particular services and battels that he himself was engaged in person.</title>
+            <author>Philipot, Thomas, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90652</idno>
+            <idno type="STC">Wing P1996</idno>
+            <idno type="STC">Thomason 669.f.10[88]</idno>
+            <idno type="STC">ESTC R210630</idno>
+            <idno type="EEBO-CITATION">99869410</idno>
+            <idno type="PROQUEST">99869410</idno>
+            <idno type="VID">162621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162621)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[88])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands sorrow for the losse of their late generall or an epitaph upon his Excellencie Robert Earle of Essex, &amp;c. Who died September 15. 1646. with a perfect memoriall of the particular services and battels that he himself was engaged in person.</title>
+                  <author>Philipot, Thomas, d. 1682.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley, and are to be sold at his Shop in Pauls neer Doctors Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of epitaph: Thomas Philipot.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "8tbor [i.e. October] 9:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="epitaph">
+            <pb facs="tcp:162621:1" rendition="simple:additions"/>
+            <head>Englands ſorrow for the loſſe of their late Generall:
+OR,
+An Epitaph upon his Excellencie ROBERT Earle of Eſſex, &amp;c. Who died September 15. 1646. with a
+perfect Memoriall of the particular Services and Battels that he himſelf was engaged in Perſon.</head>
+            <l>
+               <seg rend="decorInit">B</seg>Ring Reader, to this ſacred Hearſe,</l>
+            <l>A teare Cemented with a Verſe.</l>
+            <l>Firſt let thy melting fancie be</l>
+            <l>Thaw'd to ſome pious Elegy;</l>
+            <l>Then to theſe Reliques let thy eyes</l>
+            <l>Disburſe their watrie ſubſidies,</l>
+            <l>Which by that Cold our ſighs diſpence,</l>
+            <l>Shall into Chriſtall ſtraight condenſe,</l>
+            <l>Which being thus enchas'd, ſhall ſhine</l>
+            <l>Like Pearle congeal'd upon this Shrine,</l>
+            <l>But when they find what flame does burne,</l>
+            <l>Shut up ith Casket of this Urne,</l>
+            <l>How Palme with Olive interweaves,</l>
+            <l>And in this Tombe both twiſt their Leaves,</l>
+            <l>And that within this Marble Cell</l>
+            <l>The Aſhes of great Eſſex dwell,</l>
+            <l>Who under-rating his high bloud,</l>
+            <l>Sought only to be great and good,</l>
+            <l>And firſt himſelfe, Exacted then</l>
+            <l>By juſt commands too, other men,</l>
+            <l>That us to vertue he might draw,</l>
+            <l>More by Example then by Law;—</l>
+            <l>They'l to reſent this loſſe, I feare,</l>
+            <l>Reſolve into one Generall teare,</l>
+            <l>Which being diſtild into his Tombe,</l>
+            <l>Shall Balſome unto his duſt become;</l>
+            <l>So ſhall thy teares this Charter have,</l>
+            <l>To lie as Leigers in his Grave,</l>
+            <l>And to theſe honor'd Aſhes bee</l>
+            <l>A perpetuall Obſequie.</l>
+            <closer>
+               <signed>Thomas Philipot.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>A perfect Liſt of 150. Caſtles, Garriſons, and
+Townes that were taken from the King by his
+Excellency the Earle of ESSEX.</head>
+            <list>
+               <item>1 ARundell Caſtle</item>
+               <item>2 Taken twiſe</item>
+               <item>3 Aulton</item>
+               <item>4 Axolme Iland</item>
+               <item>5 Alnwick</item>
+               <item>6 Axolme Garriſon</item>
+               <item>7 Adlington</item>
+               <item>8 Abbingdon</item>
+               <item>9 Bewly houſe</item>
+               <item>10 Burton on Trent</item>
+               <item>11 Burley houſe</item>
+               <item>12 Burlington</item>
+               <item>13 Biſh. of Eclies houſe</item>
+               <item>14 Bredport</item>
+               <item>15 Brereton Caſtle</item>
+               <item>16 Bewdley</item>
+               <item>17 Barnſtable</item>
+               <item>18 Bellaſith</item>
+               <item>19 Bleachington</item>
+               <item>20 Cawood Caſtle</item>
+               <item>21 Chicheſter City</item>
+               <item>22 Chepſtow</item>
+               <item>23 Crowland</item>
+               <item>24 Three times</item>
+               <item>25 Taken</item>
+               <item>26 Cirenſiſter</item>
+               <item>27 Cokquet Iland</item>
+               <item>28 Cawood</item>
+               <item>29 Crow houſe</item>
+               <item>30 Carnarven</item>
+               <item>31 Carnarven Caſtle</item>
+               <item>32 Chippingham</item>
+               <item>33 Compton houſe</item>
+               <item>34 Cholmely houſe</item>
+               <item>35 Carlile</item>
+               <item>36 Chriſtleton</item>
+               <item>37 Deddington</item>
+               <item>38 Dureſme</item>
+               <item>39 Eccleſhall</item>
+               <item>40 Eviſhalme</item>
+               <item>41 Farnham Caſtle</item>
+               <item>42 Flint</item>
+               <item>43 Foy</item>
+               <item>44 Farringdon</item>
+               <item>45 Gainsborough</item>
+               <item>46 Grafton houſe</item>
+               <item>47 Guſanna</item>
+               <item>48 Greenland houſe</item>
+               <item>49 Greenhill houſe</item>
+               <item>50 Gateſhead</item>
+               <item>51 Higman</item>
+               <item>52 Hereford</item>
+               <item>53 Haggerſton Caſtle</item>
+               <item>54 Haughton Caſtle</item>
+               <item>55 Horne Caſtle</item>
+               <item>56 Holt Bridge</item>
+               <item>57 Holt houſe</item>
+               <item>58 Harwarden houſe</item>
+               <item>59 Hilſon</item>
+               <item>60 Hilſley</item>
+               <item>61 Haverford Weſt</item>
+               <item>62 Holton Caſtle</item>
+               <item>63 Hemſley Caſtle</item>
+               <item>64 Knasborough</item>
+               <item>65 Leedes</item>
+               <item>66 Lancaſter towne</item>
+               <item>67 Lancaſter Garriſon</item>
+               <item>68 Litchfeild cloſe</item>
+               <item>69 Laſtoll</item>
+               <item>70 Lemſter</item>
+               <item>71 Lynne</item>
+               <item>72 Lincolne</item>
+               <item>73 Twice taken</item>
+               <item>74 Lacock houſe</item>
+               <item>75 Lumley</item>
+               <item>76 Lincolne houſe</item>
+               <item>77 Lumley Caſtle</item>
+               <item>78 Lanceſton</item>
+               <item>79 Leverpoole</item>
+               <item>80 Laughorne</item>
+               <item>81 Lincolne City</item>
+               <item>82 Madbury</item>
+               <item>83 Twice taken</item>
+               <item>84 Malmsbury</item>
+               <item>85 Twice taken</item>
+               <item>86 Moſtan</item>
+               <item>87 Mylus</item>
+               <item>88 Morpeth</item>
+               <item>89 Monmouth</item>
+               <item>90 Twice taken</item>
+               <item>91 Milford-Haven</item>
+               <item>92 Mount-Stamford</item>
+               <item>93 Malpaſſe</item>
+               <item>94 Marlborough</item>
+               <item>95 Munſter Caſtle</item>
+               <item>96 Namptwitch</item>
+               <item>97 Newbury</item>
+               <item>98 Taken twice</item>
+               <item>99 Newbridge</item>
+               <item>100 Newcaſtle</item>
+               <item>101 Oſweſtry</item>
+               <item>102 Portſey Iland</item>
+               <item>103 Portſmouth Caſtle</item>
+               <item>104 Preſton</item>
+               <item>105 Plimpton</item>
+               <item>106 Roſſebridge</item>
+               <item>107 Redding</item>
+               <item>108 Ruſhall</item>
+               <item>109 Redcaſtle</item>
+               <item>110 Ruſſell houſe</item>
+               <item>111 South-ſea Caſtle</item>
+               <item>112 Sherborne Caſtle</item>
+               <item>113 Stafford Caſtle</item>
+               <item>114 Stamford</item>
+               <item>115 Sunderland</item>
+               <item>116 Shewdley Caſtle</item>
+               <item>117 Saltaſh</item>
+               <item>118 Tewksbury</item>
+               <item>119 Twice taken</item>
+               <item>120 Tamworth Caſtle</item>
+               <item>121 Tadcaſter</item>
+               <item>122 Twice taken</item>
+               <item>123 Tinby Caſtle</item>
+               <item>124 Taunton Dean</item>
+               <item>125 Tickhill</item>
+               <item>126 Tinmouth Caſtle</item>
+               <item>127 Wincheſter</item>
+               <item>128 Wiggon</item>
+               <item>129 Whalley</item>
+               <item>130 Wakefeild</item>
+               <item>131 Warrington</item>
+               <item>132 Wrepam</item>
+               <item>133 Wareham</item>
+               <item>134 Twice taken</item>
+               <item>135 Wootton</item>
+               <item>136 Whitbey</item>
+               <item>137 Whit-church</item>
+               <item>138 Waltham</item>
+               <item>139 Withinſhaw</item>
+               <item>140 Waymouth</item>
+               <item>141 Twice taken</item>
+               <item>142 Wilne Ferry</item>
+               <item>143 Welch-poole</item>
+               <item>144 Worhall Iland</item>
+               <item>145 Wingfeild Manor</item>
+               <item>146 Yarmouth</item>
+               <item>147 Yorke City</item>
+               <item>148 And three</item>
+               <item>149 Other Garriſons</item>
+               <item>150 In Wales</item>
+            </list>
+            <p>
+               <figure>
+                  <p>
+                     <hi>A MOVRNEFVLL CLOVD</hi>
+Ouer vaylinge the face of England for the sorrowfull
+death of his Exelence Robert Deuourux Earle of Eſsex and Ewe Vicou<g ref="char:cmbAbbrStroke">̄</g>t
+Herryford Lord Ferreres of Chartley Boucher and Louains Lord General
+of all the Parlaments forces. &amp;c and dyed y<hi rend="sup">e</hi> 15 of September 1646.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="document">
+            <head>A Liſt of the ſeverall Victo<g ref="char:EOLhyphen"/>ries
+in which his Excellency was
+ingaged in perſon.</head>
+            <p>HIs Excellency being made Captaine Generall
+by the Parliament over all the Forces in <hi>En<g ref="char:EOLhyphen"/>gland,</hi>
+as was Voted by both Houſes the 12 day of
+<hi>July</hi> 1642. proteſting to live and dye with him.
+And by the firſt of <hi>Auguſt</hi> following, his Excel<g ref="char:EOLhyphen"/>lencie
+had raiſed 10000. men, which he cauſed to
+be committed to Officers, and drawn into Regi<g ref="char:EOLhyphen"/>ments,
+and ſo marched immediatly into the
+feild.</p>
+            <p>The 23. of <hi>October</hi> next after was a very
+great battell fought between <hi>Keynton</hi> and <hi>Edge<g ref="char:EOLhyphen"/>hill</hi>
+by his Excellencie and his Army; and that
+of the Kings led by his Majeſty: At which time
+his Excellencies Army killed the Kings Generall,
+the Earle of <hi>Lindſey,</hi> the Lord <hi>Auboney,</hi> Sir <hi>Ed<g ref="char:EOLhyphen"/>mond
+Varney,</hi> and divers more; and took priſoners
+the Lord <hi>Willowby,</hi> three Colonels, and many hun<g ref="char:EOLhyphen"/>dred
+more, and brought away 16 of the Kings
+Enſignes.</p>
+            <p>His Excellencie was in this battle engaged a<g ref="char:EOLhyphen"/>gainſt
+a great Army, where was the King in per<g ref="char:EOLhyphen"/>ſon,
+and Princes, Dukes, Marqueſſes, Earles, Viſ<g ref="char:EOLhyphen"/>counts,
+Barons, Knights, and Gentlemen of all or<g ref="char:EOLhyphen"/>ders,
+who engaged themſelves againſt him; yet
+his Excellencies Army fought moſt chearfully by
+the example of their Generall, whoſe undaunted
+courage put life into every man.</p>
+            <p>Afterwards the Kings Forces being come up
+to <hi>Branford</hi> and <hi>Henley</hi> in <hi>November,</hi> his Ex<g ref="char:EOLhyphen"/>cellency
+after ſeverall engagements with them,
+and aſſiſtance coming to him from the City
+of <hi>London,</hi> who proteſted to live and dye with
+him; he forced the Kings Army to retreate to
+<hi>Oxford</hi> with the loſſe of above two hundred
+men.</p>
+            <p>In <hi>Aprill, Anno</hi> 1643. his Excellency being
+recruted, marched againe into the feild with his
+Army, and took the Towne and Garriſon of
+<hi>Redding</hi> from his Majeſty, and after ſeverall de<g ref="char:EOLhyphen"/>feats
+given to parties of the Kings Armie he took
+the Town of <hi>Cirenceſter.</hi>
+            </p>
+            <p>After which his Majeſties whole Army being
+againe drawne into the feild, his Excellency mar<g ref="char:EOLhyphen"/>ched
+up to them, the Queene came up to the
+Kings Army, and a great party with her to
+ſtrengthen his Majeſties Army againſt the Earle
+of Eſſex; But his Excellencie fought with them
+neare <hi>Nubery,</hi> where he killed five Lords, and
+divers others of quality, the King with the loſſe
+of 500 men retreated to <hi>Edge-hill,</hi> whither the Queen came to him.</p>
+            <p>In <hi>May,</hi> 1644. his Excellencie deſired the Parliament to have a Com<g ref="char:EOLhyphen"/>mittee
+to reſide with him in the Army, and his Excellencie made prepara<g ref="char:EOLhyphen"/>tions
+to the feild, and preſently beſieged <hi>Oxford</hi> where the King then was,
+and at the beginning of <hi>June</hi> got away towards the Weſt, the King and
+the Prince being gone to <hi>Exeter</hi> with the Lord <hi>Paulet,</hi> and others; his Ex<g ref="char:EOLhyphen"/>cellencie
+having taken divers priſoners, drew his Army after them; the
+Queen fled over into <hi>France;</hi> his Exellencie took in the Weſt divers perſons
+in ſeverall places, amongſt which many of quality, and divers Garriſons: In
+<hi>June</hi> his Excellencie ſecured <hi>Weymouth, Taunton Deane, Wareham Bavo<g ref="char:EOLhyphen"/>neſtable,
+Mount Stanford</hi> neare <hi>Plymouth, Plimton, Saltaſh,</hi> and <hi>Lanceſton.</hi>
+And in <hi>July</hi> his Excellencie gave a defeat to <hi>Greenvill</hi> neare <hi>Leſtithiell</hi> in
+<hi>Cornwell,</hi> and took 100. priſoners, and killed 300. upon the place, and then
+took <hi>Tadcaſter,</hi> and <hi>Foy;</hi> and did beat them from <hi>Newbridge,</hi> ſtill taking
+more priſoners daily.</p>
+            <p>In <hi>Auguſt</hi> his Excellency fell upon the Corniſh Brigade neare <hi>Saltaſh,</hi>
+and brake through their Army, ſlew many of them upon the place, tooke
+300. priſoners and four Drakes.</p>
+            <p>Then the Kings whole Army, <hi>Maurices</hi> and <hi>Greenvils</hi> were drawn into
+the feild in Battalia, in number almoſt 20000 men, near <hi>Leſtithiell,</hi> where
+his Excellencie daily skirmiſhed with them, killed many, took priſoner
+Colonell <hi>Champernoone,</hi> who was ſore wounded, and divers more, many
+lying ſixe and eight in an heap, and upon deſire his Excellencie granted
+them leave (at a parly) to bury their dead.</p>
+            <p>On Saturday the 24. of <hi>Auguſt</hi> 1644. his Excellency appointed Major
+Generall <hi>Whitcot,</hi> and Colonell <hi>Ware</hi> to guard the rear of <hi>Leſtithiell,</hi> and
+make a damme to ſtop proviſions from the Kings Army that way; and his
+Excellencie with a ſmall party of Colonel <hi>Gowres</hi> Regiment beat off 3000.
+horſe and foot from <hi>Blazy</hi> Bridge, appointed by the enemy to ſtop provi<g ref="char:EOLhyphen"/>ſions
+from <hi>Millibilly-Bay,</hi> where his Excellencie<g ref="char:punc">▪</g> killed many, and took
+priſoners a Colonell, two Captaines, and divers others.</p>
+            <p>In the beginning of <hi>September,</hi> his Excellencie notwithſtanding that he
+was ſo over-powred by the enemy, yet preſerved both himſelfe and his
+men, forced the enemy from the Sea-coaſts, and got ſafe to the Lord Ad<g ref="char:EOLhyphen"/>mirall;
+his horſe not above 3000. brake thorough the whole body of the
+Kings Army; and his foot not above 6000. though incompaſſed with
+20000. of the Kings, from <hi>Gromporond, Enedor,</hi> and <hi>Foy,</hi> even to <hi>Blazy</hi>
+Bridge, who were reſolved to give no quarter to our men; yet they fought
+it out ſo gallantly, killing two of theirs for every man that were loſt, un<g ref="char:EOLhyphen"/>till
+at laſt they got Articles from the Kings party to have a ſafe convoy to
+<hi>Leſtithiell, Poole,</hi> and <hi>Wareham,</hi> their ſicke men to remaine at <hi>Foy;</hi> and
+none of them be preſſed to deſert their ſervice to his Excellencie.</p>
+            <p>And his Excellencie being recruited in <hi>September</hi> from the Parliament,
+and in <hi>October</hi> had his Randezvous at <hi>Titchfeild,</hi> and falling on the Kings
+reare, took almoſt one hundred priſoners neare <hi>Kingſcleare;</hi> and with the
+aſſiſtance of the Earle of <hi>Mancheſter</hi> and Sir <hi>William Waller,</hi> routed the
+Kings Army near <hi>Newbury,</hi> and took nine peeces of Ordnance, 300. pri<g ref="char:EOLhyphen"/>ſoners,
+and 500. Armes.</p>
+         </div>
+         <div type="document">
+            <head>A perfect Liſt of 48. gallant Victories obtain<g ref="char:EOLhyphen"/>ed
+by the Forces under the command of his
+Excellencie the Earle of Eſſex.</head>
+            <p>1 2 SIr <hi>Thomas Aſton</hi> routed once at <hi>Namptwitch,</hi> and once at <hi>Middle<g ref="char:EOLhyphen"/>witch.</hi>
+            </p>
+            <p>3 Lord <hi>Brereton</hi> routed at <hi>Eſmore.</hi>
+            </p>
+            <p>4 Earle of <hi>Carbery</hi> routed in <hi>Wales.</hi>
+            </p>
+            <p>5 <hi>Corniſh</hi> Forces routed at <hi>Madbury.</hi>
+            </p>
+            <p>6, 7 L. <hi>Capell</hi> once driven back at <hi>Lappington,</hi> and once routed in <hi>Cheſhire.</hi>
+            </p>
+            <p>8 Lord <hi>Craford,</hi> routed at <hi>Alton.</hi>
+            </p>
+            <p>9, 10, 11. <hi>Cheſhire</hi> Cavaliers once routed near <hi>Stafford,</hi> once beaten at <hi>Tar<g ref="char:EOLhyphen"/>vin,</hi>
+and once routed at <hi>Eaton.</hi>
+            </p>
+            <p>12 Earle of <hi>Derby</hi> routed at <hi>Stockton</hi> Heath.</p>
+            <p>13 Lord <hi>Digby</hi> routed in <hi>Dorſetſhire.</hi>
+            </p>
+            <p>14 <hi>Egerton</hi> defeated at <hi>Farne</hi> in <hi>Cheſhire.</hi>
+            </p>
+            <p>15, 16, 17. <hi>Goring</hi> beaten once in <hi>Hamſhire,</hi> defeated once at <hi>Lebridge,</hi> and
+once routed at <hi>Shrewſbury.</hi>
+            </p>
+            <p>18 <hi>Greenvill</hi> routed at <hi>Leſtithiell.</hi>
+            </p>
+            <p>19 <hi>Grandy</hi> routed in <hi>Pembrookeſhire.</hi>
+            </p>
+            <p>20 <hi>Gloſter</hi> City gallantly relieved, and the enemy forced away.</p>
+            <p>21 <hi>Hopton</hi> routed at <hi>Cheridoun.</hi>
+            </p>
+            <p>22 <hi>Herefordſhire</hi> forces routed on the borders of <hi>Wales.</hi>
+            </p>
+            <p>23, 24, 25, 26, 27, 28, 29. The King once defeated at <hi>Coventry,</hi> once routed at
+<hi>Southam,</hi> once repulſed on the borders of <hi>Warwickeſhire,</hi> routed at
+<hi>Edge-hill,</hi> defeated near <hi>Henly,</hi> and twice at <hi>Nubery.</hi>
+            </p>
+            <p>30 The <hi>Kentiſh-men</hi> that roſe were ſubdued.</p>
+            <p>31, 32, 33. Prince <hi>Maurice</hi> defeated, once loſt three troops of horſe, once
+was routed at <hi>Wells,</hi> and once in the North.</p>
+            <p>34 Colonell <hi>Marrow</hi> routed in <hi>Cheſhire.</hi>
+            </p>
+            <p>35, 36, 37, 38, 39, 40, 41. Marqueſſe of <hi>Newcaſtle</hi> was once routed at <hi>Tadca<g ref="char:EOLhyphen"/>ſter,</hi>
+once at <hi>Bradford,</hi> once at <hi>Leedes,</hi> a fourth time on the borders of
+<hi>Yorkeſhire,</hi> a fifth time at <hi>Horne-caſtle,</hi> a ſixth time at <hi>Selby,</hi> and the ſe<g ref="char:EOLhyphen"/>venth
+time at <hi>Marſton-moore.</hi>
+            </p>
+            <p>42, 43, 44. Prince <hi>Rupert</hi> was routed once at <hi>Marſton-moore,</hi> a ſecond time
+in <hi>Gloſterſhire,</hi> and a third time in his Northern voyage.</p>
+            <p>45 Lord <hi>Strange</hi> routed at <hi>Mancheſter.</hi>
+            </p>
+            <p>46 The <hi>Staffordſhire</hi> and <hi>Cheſhire</hi> Cavaliers beaten at <hi>Eccleſhall.</hi>
+            </p>
+            <p>47, 48. Sir <hi>John Winter</hi> defeated in the Forreſt of <hi>Deane,</hi> and a ſecond time
+totally routed.</p>
+         </div>
+         <div type="license">
+            <p>Licenſed, and Publiſhed according to Order.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Ley,</hi> and are to be ſold at his Shop at <hi>Pauls</hi>
+neer Doctors Commons. 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
